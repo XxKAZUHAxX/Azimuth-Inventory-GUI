@@ -1,0 +1,14 @@
+{
+   "Jade": {
+      "Username": "jesryljade18@gmail.com",
+      "Password": "123456"
+   },
+   "Maxim": {
+      "Username": "maxim@gmail.com",
+      "Password": "123456"
+   },
+   "Admin": {
+      "Username": "admin",
+      "Password": "admin"
+   }
+}

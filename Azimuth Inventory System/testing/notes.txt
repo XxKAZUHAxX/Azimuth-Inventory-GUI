@@ -1,0 +1,8 @@
+dmr_models = [model for i, model in df["MODEL"]]
+
+models_dict = {type: model_list for model in df}
+
+
+all_models = {}
+
+all_models["DMR"] = [model for i, j in enumerate(self.df["MODEL"]) if self.df["MODEL"][i] == "DMR"]

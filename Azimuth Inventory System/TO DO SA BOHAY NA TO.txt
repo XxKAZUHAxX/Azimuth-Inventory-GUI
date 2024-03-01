@@ -1,0 +1,6 @@
+1. Configure the create_api_instance that can return a list of models and their respective type.
+2. Update both DR IN Page and InventoryPage for better optimization and readability.
+3. DON'T FORGET TO ADD BODY WORN CAMERA ON THE MODELS LIST.
+4. WORKOUT THE SCALABILITY OF THE PROGRAM
+
+            IN SHORT: REWORK OF MAIN CODE TO SATISFY CLIENTS PREFERENCES
